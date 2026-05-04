@@ -1,0 +1,22 @@
+{
+  "experiment_name": "powergrid-energy-kwh",
+  "models": [
+    {
+      "name": "SVR",
+      "mae": 110.059,
+      "rmse": 117.6633,
+      "r2": -0.0174,
+      "run_id": "654bbc677e9149ab90efe1797ce60a88"
+    },
+    {
+      "name": "GradientBoosting",
+      "mae": 137.8739,
+      "rmse": 166.6026,
+      "r2": -1.0398,
+      "run_id": "c5b0f152c3aa45918eac2f0b7e295dc2"
+    }
+  ],
+  "best_model": "SVR",
+  "best_metric_name": "rmse",
+  "best_metric_value": 117.6633
+}

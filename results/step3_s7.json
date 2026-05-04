@@ -1,0 +1,10 @@
+{
+  "registered_model_name": "powergrid-energy-kwh-predictor",
+  "alias_name": "production",
+  "champion_version": 1,
+  "challenger_version": 2,
+  "champion_rmse": 117.6633,
+  "challenger_rmse": 117.6633,
+  "action": "kept",
+  "promoted_version": 1
+}

@@ -1,0 +1,7 @@
+{
+  "registered_model_name": "powergrid-energy-kwh-predictor",
+  "version": 1,
+  "run_id": "654bbc677e9149ab90efe1797ce60a88",
+  "source_metric": "rmse",
+  "source_metric_value": 117.6633
+}
